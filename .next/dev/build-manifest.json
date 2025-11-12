@@ -1,0 +1,50 @@
+{
+  "pages": {
+    "/_app": [
+      "static/chunks/896ab_next_dist_compiled_d2fec62c._.js",
+      "static/chunks/896ab_next_dist_shared_lib_50dbda47._.js",
+      "static/chunks/896ab_next_dist_client_d13172bb._.js",
+      "static/chunks/896ab_next_dist_19651da7._.js",
+      "static/chunks/896ab_next_app_479c6fa0.js",
+      "static/chunks/[next]_entry_page-loader_ts_827952a8._.js",
+      "static/chunks/896ab_react-dom_dc3e72a0._.js",
+      "static/chunks/896ab_181806b0._.js",
+      "static/chunks/[root-of-the-server]__cf1f85a7._.js",
+      "static/chunks/Downloads_queuectl_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-Downloads_queuectl_pages__app_84c8de5d._.js"
+    ],
+    "/_error": [
+      "static/chunks/896ab_next_dist_compiled_d2fec62c._.js",
+      "static/chunks/896ab_next_dist_shared_lib_a371dbbc._.js",
+      "static/chunks/896ab_next_dist_client_d13172bb._.js",
+      "static/chunks/896ab_next_dist_81ff6989._.js",
+      "static/chunks/896ab_next_error_d0971cd2.js",
+      "static/chunks/[next]_entry_page-loader_ts_067a656b._.js",
+      "static/chunks/896ab_react-dom_dc3e72a0._.js",
+      "static/chunks/896ab_181806b0._.js",
+      "static/chunks/[root-of-the-server]__293f6eea._.js",
+      "static/chunks/Downloads_queuectl_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-Downloads_queuectl_pages__error_8f113bea._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/896ab_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_ssgManifest.js",
+    "static/development/_buildManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_feeb9f3a._.js",
+    "static/chunks/896ab_next_dist_compiled_react-dom_ce2c8a3e._.js",
+    "static/chunks/896ab_next_dist_compiled_react-server-dom-turbopack_99025f6e._.js",
+    "static/chunks/896ab_next_dist_compiled_next-devtools_index_6a075e49.js",
+    "static/chunks/896ab_next_dist_compiled_82841baa._.js",
+    "static/chunks/896ab_next_dist_client_0cc84fd0._.js",
+    "static/chunks/896ab_next_dist_64653263._.js",
+    "static/chunks/896ab_@swc_helpers_cjs_dde68da6._.js",
+    "static/chunks/Downloads_queuectl_a0ff3932._.js",
+    "static/chunks/turbopack-Downloads_queuectl_8e1cb661._.js"
+  ]
+}

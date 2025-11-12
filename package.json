@@ -1,0 +1,38 @@
+{
+  "name": "queuectl",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node test/test-suite.js",
+    "demo": "node demo/demo.js",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "chalk": "5.6.2",
+    "child_process": "1.0.2",
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "crypto": "1.0.1",
+    "fs": "0.0.1-security",
+    "lucide-react": "0.553.0",
+    "next": "16.0.1",
+    "path": "0.12.7",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "tailwind-merge": "3.4.0",
+    "tailwindcss-animate": "1.0.7",
+    "url": "0.11.4",
+    "yargs": "18.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.17",
+    "@types/node": "24.10.1",
+    "@types/react": "19.2.3",
+    "@types/react-dom": "19.2.3",
+    "postcss": "8.5.6",
+    "tailwindcss": "4.1.17",
+    "typescript": "5.9.3"
+  }
+}
